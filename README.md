@@ -13,6 +13,17 @@
 
 </div>
 
+## Student Information
+
+| Field          | Value |
+|----------------|---|
+| Student Name   | Achini Pramodhya |
+| Student Number | 2301692020 |
+| Slack Handle   | Achini Pramodhya |
+| Module         | ITS 2130 Enterprise Cloud Application |
+| Program        | GDSE @ IJSE |
+| GCP Project ID | eca-bucket |
+
 ---
 
 ## 📋 Table of Contents
