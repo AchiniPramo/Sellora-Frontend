@@ -101,7 +101,6 @@ webapp/
 │   ├── items/                       # Items/Products components
 │   ├── layout/                      # Layout components (header, sidebar, etc)
 │   ├── orders/                      # Orders components
-│   ├── students/                    # Students components
 │   └── ui/                          # Base UI components (shadcn/ui)
 │
 ├── 📂 lib/                          # Utility Functions & Helpers
