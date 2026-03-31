@@ -90,7 +90,6 @@ webapp/
 │   ├── my-orders/                   # User's personal orders
 │   ├── profile/                     # User profile page
 │   ├── shop/[id]/                   # Shop detail page (dynamic)
-│   ├── students/                    # Students management
 │   ├── users/                       # Users management
 │   ├── layout.tsx                   # Root layout
 │   ├── layout-shell.tsx             # Shell layout variant
@@ -254,7 +253,6 @@ const response = await apiClient.post('/endpoint', { data });
 | **Orders** | Order management | View, create, track orders |
 | **My Orders** | User orders | Personal order history |
 | **Profile** | User settings | Edit profile, preferences |
-| **Students** | Student management | View, manage student records |
 | **Users** | Admin tools | User management interface |
 
 ---
